@@ -1,0 +1,3 @@
+Este es un ejemplo de lectura de texto con Python, no te olvides de suscribirte 
+y regalarme un like si este video te parece útil.
+Por favor escribe en la caja de comentarios que ideas se te vienen a la mente con este tutorial.
